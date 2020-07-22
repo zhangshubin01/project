@@ -1,2 +1,6 @@
+include ':photolibrary'
+include ':imagelibrary'
+include ':fluttterlibrary'
+include ':viewPager2library'
 include ':app'
 rootProject.name = "project"
